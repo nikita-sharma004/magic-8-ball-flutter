@@ -28,6 +28,7 @@ class Ball extends StatefulWidget {
 }
 
 class _BallState extends State<Ball> {
+//    we can take var or int    
   var ballNumber = 1;
   @override
   Widget build(BuildContext context) {
